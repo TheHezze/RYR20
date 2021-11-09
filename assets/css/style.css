@@ -1732,8 +1732,13 @@ section {
 	margin-bottom: px;
 	margin-left: auto;
 }
-.footer-links li { display:inline;}
-.footer-links li a { color:#ddc096; margin:0 3px;}
+.footer-links li { 
+  display:inline;
+}
+.footer-links li a { 
+  color:#ddc096; 
+  margin:0 3px;
+}
 
 .portfolio-wrap img {
   object-fit: cover;
